@@ -1,4 +1,4 @@
-*This is the direction sector*
+**This is the direction sector**
 
 This is `main` branch. 
 To see and clone the code go to `master` branch. 
