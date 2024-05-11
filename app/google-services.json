@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381468188924",
+    "project_id": "friendzone-whisper-47f0f",
+    "storage_bucket": "friendzone-whisper-47f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381468188924:android:932651d999f86530aab779",
+        "android_client_info": {
+          "package_name": "soumya_04.chatapplication.test.friendzonewhisper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381468188924-su1in7pdesgrovvcovps29kidrbv1tur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLipniKRAvz4zTE_id8-0ffiPx5Womio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381468188924-su1in7pdesgrovvcovps29kidrbv1tur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
